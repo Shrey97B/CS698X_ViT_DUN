@@ -6,4 +6,4 @@ The given repository contains the files and details of the project entitled "DUN
 
 [[2]Javier Antor´an, James Urquhart Allingham, and Jos´e Miguel Hern´andez-Lobato. Depth uncertainty in neural networks, 2020.](https://arxiv.org/abs/2006.08437)
 
-In the project, we explore the performance of depth uncertainty networks over different datasets mentioned in the paper and an additional dataset. Further, we explore the possibility of applying the base idea over Vision Transformers. Please go through the file `report.pdf` for more details.
+In the project, we explore the performance of depth uncertainty networks over different datasets mentioned in the paper and an additional dataset. Further, we explore the possibility of applying the base idea over Vision Transformers. Please go through the file `ViT_DUN_Report.pdf` for more details.
